@@ -1,0 +1,4 @@
+/imageCollectionBirds
+/imageCollectionDancers
+/imageCollectionFlowers
+/imageCollectionFoods
