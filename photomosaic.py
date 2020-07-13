@@ -61,12 +61,9 @@ def upload():
         return images
 
     def inputRGB(output, images):
-        x = 0
         for image in os.listdir(output):
-            x+=1
             path = os.path.join(output, image)
             i = Image.open(path)
-            print(path, x)
             images[image] = (AvgRGB(pixelmatrix(i)))
         return images
 
