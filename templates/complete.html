@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Photomosaic</title>
+    <link rel = 'stylesheet' href= "{{ url_for('static',filename='style.css') }}" type="text/css">
+    <link rel="icon" href = "{{ url_for('static', filename='favicon.ico') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+</head>
+<body>
+<h1>Congrats! Your Photomosaic is complete.</h1>
+<form class = 'form'
+      action = "{{url_for('final')}}"
+      method = "POST"
+      enctype="multipart/form-data">
+    <input class = 'button' type="submit" value="Open Your Photomosaic">
+</form>
+
+<br><br><br><br>
+
+<form class = 'form'
+      action = "{{url_for('home')}}"
+      method = "POST"
+      enctype="multipart/form-data">
+    <input class = 'button' type="submit" value="Make Another One">
+</form>
+    <script src="{{ url_for('static', filename='jquery.js') }}" type="text/javascript"></script>
+    <script src="{{ url_for('static', filename='script.js') }}" type="text/javascript"></script>
+
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Photomosaic</title>
+    <link rel = 'stylesheet' href= "{{ url_for('static',filename='style.css') }}" type="text/css">
+    <link href="https://fonts.googleapis.com/css2?family=Lato&display=swap" rel="stylesheet">
+
+    <link rel="icon" href = "{{ url_for('static', filename='favicon.ico') }}">
+
+</head>
+<body>
+<h1>Make Your Own Photomosaic <span>Created by Rohun Baxi</span></h1>
+<p> Photomosaics are one image composed of many.
+    They make great gifts for others.
+    Input your desired image and the pixel size of the smaller images you want to fit into it.
+    Note that a smaller pixel size would mean a more detailed mosaic.
+    Finally, pick your choice of image set to draw the smaller images from.
+    Note that larger sets require more processing time.<br><br>
+
+    Loading times range from 15 seconds to 3 minutes depending on the above factors.
+</p>
+<div class="custom-file-upload">
+<form id = 'form'
+      action = "{{url_for('upload')}}"
+      method = "POST"
+      enctype="multipart/form-data">
+    <input type="file" class='file' name="myfiles[]" accept="image/*" multiple required />
+    <br><br>
+    <label for="amountRange">Pixel Length of Sides (recommended: 20px):</label><br>
+    <input id = 'amountRange' type="range" name="amountRange" min="0" max="100" value="20" oninput="this.form.amountInput.value=this.value" />
+    <br>
+    <input type="number" name="amountInput" min="0" max="100" value="20" oninput="this.form.amountRange.value=this.value" />
+    <br><br>
+    <label for="selectIMG">Choose Image Set:</label><br>
+
+    <select name = 'selectIMG' id="selectIMG" form = 'form'>
+    <option value="hide">-- Image Set --</option>
+    <option value="Flowers">Flowers (769)</option>
+    <option value="Birds">Birds (1000)</option>
+    <option value="Foods">Foods (2227)</option>
+    <option value="Dancers">Dancers (520)</option>
+    </select><br><br>
+
+    <input type = 'submit' class="button" value = 'Get Photomosaic'></form>
+</div>
+
+
+
+    <script src="{{ url_for('static', filename='jquery.js') }}" type="text/javascript"></script>
+    <script src="{{ url_for('static', filename='script.js') }}" type="text/javascript"></script>
+    <script src="{{ url_for('static', filename='dropdown.js') }}" type="text/javascript"></script>
+
+</body>
+</html>
