@@ -1,5 +1,0 @@
-/static
-/imageCollectionBirds
-/imageCollectionDancers
-/imageCollectionFlowers
-/imageCollectionFoods
