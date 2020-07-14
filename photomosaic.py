@@ -111,6 +111,6 @@ def final():
     return send_file('outputPhotomosaic/Photomosaic.jpg')
 
 if __name__ == "__main__":
-    app.run()
+    app.run(debug=False)
 
 #------------------------------
