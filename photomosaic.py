@@ -119,7 +119,7 @@ def final():
     return send_file('outputPhotomosaic/Photomosaic.jpg')
 
 if __name__ == "__main__":
-    app.config['ENV'] = 'development'
-    app.run(debug=True)
+    app.config['ENV'] = 'production'
+    app.run(debug=False)
 
 #------------------------------

@@ -16,8 +16,7 @@
     Input your desired image and the pixel size of the smaller images you want to fit into it.
     Note that a smaller pixel size would mean a more detailed mosaic.
     Finally, pick your choice of image set to draw the smaller images from.
-
-    The Heroku version has artifically limited image databases due to user restrictions. For the full experience, please download the code at my<a href="github.com/rohunbaxi"> Github</a>
+    Note that larger image sets require more processing time.
     <br><br>
 </p>
 <div class="custom-file-upload">
@@ -28,18 +27,18 @@
     <input type="file" class='file' name="myfiles[]" accept="image/*" multiple required />
     <br><br>
     <label for="amountRange">Pixel Length of Sides (recommended: 25px):</label><br>
-    <input id = 'amountRange' type="range" name="amountRange" min="20" max="100" value="30" oninput="this.form.amountInput.value=this.value" />
+    <input id = 'amountRange' type="range" name="amountRange" min="0" max="100" value="30" oninput="this.form.amountInput.value=this.value" />
     <br>
-    <input type="number" name="amountInput" min="20" max="100" value="25" oninput="this.form.amountRange.value=this.value" />
+    <input type="number" name="amountInput" min="0" max="100" value="25" oninput="this.form.amountRange.value=this.value" />
     <br><br>
     <label for="selectIMG">Choose Image Set:</label><br>
 
     <select name = 'selectIMG' id="selectIMG" form = 'form'>
     <option value="hide">-- Image Set --</option>
-    <option value="Flowers">Flowers</option>
-    <option value="Birds">Birds</option>
-    <option value="Foods">Foods</option>
-    <option value="Dancers">Dancers</option>
+    <option value="Flowers">Flowers (769)</option>
+    <option value="Birds">Birds (928)</option>
+    <option value="Foods">Foods (1512)</option>
+    <option value="Dancers">Dancers (520)</option>
     </select><br><br>
 
     <input type = 'submit' class="button" value = 'Get Photomosaic'></form>
