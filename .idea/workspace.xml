@@ -19,200 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57847a54-7f1f-4d7f-9b1b-b119be4d8464" name="Default Changelist" comment="heroku commit -am &quot;changes&quot;">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/07aa35c9-7971-4def-b20d-091d730c8e0d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/11b3d971-2c7f-4c16-a522-f43dc317752b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/13b07de9-1228-4ea6-9718-8d4bdbeba60e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/15e5d67e-9a44-4952-9a72-120913fd026b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/15e708d3-e81a-48b9-bf08-967b6ec3ec85.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/16d8346e-c5dc-4d97-b9db-d07ee842ca79.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/17bd70f2-d445-4bd3-bc74-0d5c7efca7aa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/17f92d9a-29c3-41aa-b025-b624b8eac9a0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/19c1424c-9e81-477c-98c4-5541520a1301.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/4e5a582f-5223-456f-972f-eed86df6c62d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/4e940f05-94ec-48e2-9550-e064952a8c7c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/4ec8448f-0700-483e-80a6-f7ca0fe2bef2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/4ee07572-c376-40a2-b1b9-266758a2f426.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/4ef402d3-dd83-4b6d-a77a-22f5553e47e4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/4f5dce75-9bee-4be8-9659-5b7e1bf8cb52.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/5bb069c9-4c0b-450c-b9b3-5171e0632e51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/5c854f07-6050-416f-a01c-6d31658dc5b6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/5cfc9abf-4a6c-464a-8466-9b1ced361239.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/5d9dc9bc-156f-4ad6-85ce-ed0b63155dbb.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/5ea19489-8e87-474b-ace8-42e0a88284c3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/5ed322eb-bdf5-46c2-8c17-062a093e4aaf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6c2164d8-1b28-444b-ade4-ed4db426ae46.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6c99d4fa-71ea-4443-be4c-101d9220e0f4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6ce7511e-f17b-409b-bfed-bd3195f6175e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6d2f8bb4-de60-4c3d-b503-7ad27af2802b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6da1b05d-e177-4233-bbf3-efce3a63ed72.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6e0df177-aeab-4d03-b574-e5906af8a419.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6eac1444-924f-404e-a68f-ea8c438c8b8e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6ef15761-85b7-46f7-919c-7817662da3d0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/6f97cba1-d73a-4252-b0e8-af3ca7ba98ca.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/7ac147da-341d-460a-8c54-d9d910d55870.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/7b61ede9-63a9-4c52-bc21-e92a4d55d8d9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/7bf2a8b9-4e9a-40a3-9fcf-1ad9d2db1e09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/7cc27119-a4ca-411b-bc6a-ffe0b5a87091.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/7d70a4aa-d901-4d4e-9ccb-eac6cc0c5961.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/7e2589dd-e04e-4857-a81d-9554a63c4404.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/7e44656e-d16c-40ec-9edd-c81e27f5167d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8a1ffbdb-a6e5-484d-90c2-cf886fbe56a6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8a4af290-4b6f-4d65-afb7-64d0abffd2cc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8a4be186-2ebc-476d-95d8-f20b7f12470a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8a8e5b98-cb2a-48f5-a8ab-86e8da402726.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8abff8db-1c09-4c33-8eaa-e31349e69518.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8c24635d-3728-4afe-966a-6082edda0662.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8c2910f9-381d-4cf0-8ba7-997c84986105.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8c706455-2a57-4261-a9a6-37f8e2106527.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8c8daddb-7946-45ef-b099-f6a5ff2d141e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8ce7a2ac-da5b-49e9-8901-77b647fc4372.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8e589795-7175-480b-9592-29fcfb887b20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8eb9b649-de80-4366-9c1e-a5ebf45e53af.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8ece7ce6-b481-4d11-b67d-b02ad3b77788.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8f141c2b-82b6-4ee2-8d73-fff3087fa858.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/8f6bf746-3f67-4c5c-a4a4-52f82591d855.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9a3c34f6-30a6-4ee9-bbbd-77ddd045d211.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9af9e59f-a756-4660-9c76-937f9828a58d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9b4a20ba-f791-4f10-a924-0c28a6f12d0d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9b86b46a-a451-45f9-bff0-6364896390a0.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9bb5a983-5680-4c33-a1c3-9e36094ed64a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9c483ee2-5462-415c-a1ce-567177a6d9f2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9c52df6f-04fa-4d58-88fe-08a546c024b2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9cb90f3c-baf1-4e9a-913c-2c53dbcb9459.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9cddb69d-2979-461e-9486-422ab79a8f45.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9d5307b2-8650-455a-896a-d29c3b2f9277.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9d619890-cf9b-4a90-a411-158c57377b50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9d629672-f1da-43dc-bc1e-9f45af8ca241.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9dae6678-a84a-4bac-9432-ee911958ccaf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9e2878cd-0fdc-41fe-8056-6efd909004f1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/9e47a556-2847-4d6f-9f0e-090fce80dcef.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c0593c59-005d-43b8-a0de-27c9c43407a4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c0987b85-3811-43a0-9e14-5188abfc2d9c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c16a43d7-c94f-484d-b878-d1fed95d77c7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c2417aa8-0f42-4876-a787-b61e1f58daa8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c33b71bf-67ab-4253-a008-81b692aaed71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c474f128-1d11-4e93-80d9-ba64a3bd8507.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c52a9efc-2462-4192-8dec-2f801771b90b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c5923f32-b6d8-41d3-82e3-2f3a986761a2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c760bc63-efc5-4993-8a92-c7643b952969.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/c8641b28-1c3b-4c62-9360-0ce36ff65d71.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ca3bb50e-2475-44b7-85a3-999bf4b53f0a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ca86a4d9-3f02-43fa-af51-93e074ff3f93.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/cb8d1d99-6f74-456b-8bef-453801601508.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/cb9f394c-6134-45fc-856d-eee8982ff798.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/cd2ab984-aabc-4df1-aa06-300857103797.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ce1abd65-26a3-4e1e-8223-8121f0f8198b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ceb275b3-53a6-41d7-88d9-14318fdb5cd5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/cef65dce-75bc-4a67-ab56-0a70491be772.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/cef930ef-b186-4649-b745-c2ccb680bd06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/cf130528-1e03-46e1-9554-3b95834a7b57.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d053d92e-09ea-4924-adbb-8b30c85ac478.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d05fde04-7b28-4297-bddd-c020b86d6ff9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d08ff1de-aaaf-4be2-97b7-9d27a1e55950.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d0a8e760-8767-4e9a-99bb-3ae3ea003886.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d11840de-2ee1-4d88-9a98-91555708488f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d21ee0fd-5eec-4e60-a65d-dfba45f3d04b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d3c2557c-106d-43bb-ace1-5ea4ef2d99fe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d406b58a-64d2-4930-9d03-1344d33b1786.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d462a469-5383-42b8-b514-48c69045650f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d4ce208e-3daa-482c-9308-bf45de0c2219.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d556bc03-22c3-4858-9dff-597d3ffe324f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d58c38c2-a11a-425a-9750-44d4a2b412a9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d5a96336-2ab5-4362-972f-f55cec49852a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d5d3db4d-b9b7-4154-8a7a-9b6c18fa2f3b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d5dc71c6-c554-49b4-803e-ec4278706a35.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d7a2d5d1-16ea-4b96-9254-248ade5efa9e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d84a8ac4-8c1a-4e4a-aa35-ceea7be87d2a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/d907cd0d-8928-4d98-9e16-4e1a51a01a69.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/da9b728d-4238-46d3-baf9-2c50265c072a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/db760259-3cab-4aec-b374-fb47ea95e0e8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/dc26762d-ca0e-414c-98b2-b48e7ed7978f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/dceff064-3221-4595-9406-6425870368cd.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/dd55c647-d009-49ff-a611-2cf6503a6eba.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/de07214b-703b-4556-ad07-480274c15841.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/de1686ed-9a26-4c03-96e8-d717ce2bf5c1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/df5f0e7f-7949-46f7-8861-6cc1f8f8d530.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/dfda49bb-67f3-4c6b-9be4-63c9ac88a527.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/dfdaffad-fd79-4160-aeb3-89c01f9a4d6c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/dffa99b7-d047-452c-8bf4-34639c2f9f9f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e01f3a06-91c0-469f-886b-6fa7bc3f28fe.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e0cd4f81-7457-46e4-ab94-2a2fc55a94a5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e12734b0-217a-4d9b-9ea0-01fe92aa8d54.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e1552171-c5a4-4b12-ab73-67a8d4dee852.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e2434c7a-ab89-4d3b-b082-a26b6f14716d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e2641530-a4c6-4019-875f-4d07e63588ab.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e2eac10f-a64f-4cac-ac09-fe901038916a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e3025e97-de28-4673-b2d6-e091ac8e13b6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e34141b5-a1ef-4529-bbc5-830a7b97efb9.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e37e24a2-15c1-4606-b4df-6b14b086b9e6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e3e4082a-2d4a-4698-9c07-86a37058c647.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e5c3ed79-7bce-44be-a07f-fd565f2a9230.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e5d05120-c267-4f9b-8527-2dfc28e86030.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e6487cc1-943a-4fbb-b7de-f0674829c4e2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e678a7fd-9579-4a3b-9883-17e2620d7fe8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e6fd68f9-e5fd-419e-b151-67460ab31aa5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e78a4e17-7474-4a14-8461-1c6f58db9618.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e7adaf68-396f-460c-bfea-ac56eebae3d2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e7c324c1-bd1c-46fa-a17f-64b09edfd645.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e7cc9291-7062-4e7f-80dd-f719f86c952f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e7cecef5-8ce3-477c-a0bc-99de598ea333.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e8183388-5641-495f-a1bc-b7f8473d83ef.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e822ac39-01b6-4158-bab4-4d97bbe50286.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e87e2fc9-6c91-4a41-ab5e-4e80aa2052aa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e882b91d-6756-4c80-bf8b-e8787505b368.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/e95774a3-dcb2-458f-ad8d-5180130a0c06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ea3a3e6a-1029-4dca-ade5-1cee270d6835.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ea60b046-592b-4ea6-9690-bd575117ceb7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/eada410a-8b13-4fb9-bfa6-39b40fb1f942.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/eb12b314-b7a6-4b61-b0d1-f570510e0f3c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ebc3a3f6-a61d-49aa-badb-d981e7a67687.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ec7bc1fa-9058-4d4d-935a-5e1ea60c0240.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ecebfd14-e1c0-456b-b2f2-a0a0ff3111c7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ed19ef61-20ad-420b-9934-099d8651f5d7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ed717759-12df-46d9-ae20-111239b3d692.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/edd64287-b0f6-431f-a6b3-4784a6cd04bf.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ef2f7e8e-0322-4e8e-876f-c413a4b877c8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ef3f826f-9622-4f76-827b-fa4ea6c88147.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ef6a531a-8c55-43bd-963c-0e1c8b294b50.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f02751aa-af52-4874-83f9-2f95e2f4debc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f0caf772-671a-4382-9bb0-faac692c9c6a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f1d0494b-9bfa-4fbb-bedb-48e1f8404e85.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f2c582dc-e3d2-4ff7-af0d-ef6c8ecc1332.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f33b08eb-d3cf-43e7-bb0c-65dc75016be4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f3d2211a-382f-4d1c-8938-6232e4e0021f.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f440cb11-038e-41f2-94d7-0756b27c3d29.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f4a467f5-8da3-4c8b-96f8-1836d0e4f3b6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f520ce5e-c922-4b94-9a96-125d4ce2025e.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f550e218-1909-4c24-bbd1-3f33c1bb6993.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f5bb929c-ee6f-4b95-8581-5941e142185d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f5cc2f46-94bc-41a7-a9a0-2e5cb2de1477.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f8327feb-183b-452f-a37b-ba823b85125b.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/f92c3777-eb69-4443-8c18-198241a33a42.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fabaa720-1c67-4755-ba69-79205185a7df.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fadb9112-dd68-42b0-ba10-7c329f236e7d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fb232235-85d8-45cf-8c06-897331a93952.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fbe8a79c-372a-4908-a46a-dafbd78d2e80.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fc08a26f-a7a8-4cfc-a31f-9188abe97791.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fc0cba51-1e72-4be7-910e-f3de92b7befa.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fcf52453-df0c-4421-93ca-fe87882171e8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fcff8510-c072-4fd6-bb35-cbaac36dbf51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fdfdaba3-4b10-42d5-bc87-1f4a366077f5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fe1b9951-a80d-42e5-ad98-590704870776.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/fef64be3-f700-483c-ad2e-d3246da389fc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ff29d34d-62af-490a-aa19-a40589683957.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ff3fd904-3dfb-401a-b13c-521c0a52a144.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ff5b3bec-e5eb-44b8-a564-edb85ccfaa4d.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ff6a807d-c416-4f61-be9a-30f439684563.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ffaab6c2-8edd-48c3-b3cc-211a5ce9ee5a.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ffb947d6-4584-45aa-9cd4-c46f053add67.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/imageCollectionDancers/ffbb3401-10c6-4dfd-9760-79a0bd79686c.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/outputPhotomosaic/Photomosaic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/outputPhotomosaic/Photomosaic.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photomosaic.py" beforeDir="false" afterPath="$PROJECT_DIR$/photomosaic.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="57847a54-7f1f-4d7f-9b1b-b119be4d8464" name="Default Changelist" comment="heroku commit -am &quot;changes&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -330,22 +137,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1321" y="297" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593930190120" />
-    <state width="1899" height="188" key="GridCell.Tab.0.bottom" timestamp="1594715441289">
+    <state width="1018" height="159" key="GridCell.Tab.0.bottom" timestamp="1594715580096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="188" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594715441289" />
-    <state width="1899" height="188" key="GridCell.Tab.0.center" timestamp="1594715441289">
+    <state width="1018" height="159" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594715580096" />
+    <state width="1018" height="159" key="GridCell.Tab.0.center" timestamp="1594715580096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="188" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594715441289" />
-    <state width="1899" height="188" key="GridCell.Tab.0.left" timestamp="1594715441289">
+    <state width="1018" height="159" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594715580096" />
+    <state width="1018" height="159" key="GridCell.Tab.0.left" timestamp="1594715580096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="188" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594715441289" />
-    <state width="1899" height="188" key="GridCell.Tab.0.right" timestamp="1594715441289">
+    <state width="1018" height="159" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594715580095" />
+    <state width="1018" height="159" key="GridCell.Tab.0.right" timestamp="1594715580096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="188" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594715441289" />
+    <state width="1018" height="159" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594715580096" />
     <state x="778" y="270" key="SettingsEditor" timestamp="1594194276711">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
