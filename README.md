@@ -3,7 +3,7 @@ This application takes in images and makes them into photomosaics using a choice
 This application was created in Python using PIL for image processing. 
 The web interface was built in HTML5/CSS3 and Javascript using the Flask web framework to integrate the front end and back end.
 
-# Website
+## Website
 
 Using Git Bash, this application is deployed onto Heroku.
 It is available at the following link: https://make-a-photomosaic.herokuapp.com/
