@@ -15,11 +15,6 @@ def home():
 @app.route('/upload', methods = ['POST', 'GET']) #runs photomosaic code, loads intermediary page
 def upload():
 
-    sideLen = int(request.form['amountRange'])
-    selection = 'imageCollection' + str(request.form['selectIMG'])
-    for file in request.files.getlist('myfiles[]'):
-        file.save('outputPhotomosaic/input.jpg')
-
     #PHOTOMOSAIC CODE--------------------------------------------------
     photo = Image.open('outputPhotomosaic/input.jpg')
     width, height = photo.size
@@ -101,7 +96,7 @@ def upload():
                 i.paste(im, (y, x))
         i.save('outputPhotomosaic/Photomosaic.jpg')
 
-    #printMosaic(selection, 'processing', sideLen)
+    printMosaic(selection, 'processing', sideLen)
     #-------------------------------------------------------------
 
     return render_template('complete.html')
