@@ -101,7 +101,7 @@ def upload():
                 i.paste(im, (y, x))
         i.save('outputPhotomosaic/Photomosaic.jpg')
 
-    printMosaic(selection, 'processing', sideLen)
+    #printMosaic(selection, 'processing', sideLen)
     #-------------------------------------------------------------
 
     return render_template('complete.html')
