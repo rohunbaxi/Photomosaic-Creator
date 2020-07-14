@@ -1,7 +1,7 @@
 from PIL import Image
 import os
 import glob
-import uuid
+import imghdr
 
 #FLASK-----------------
 from flask import Flask, render_template, request, send_file
@@ -64,6 +64,8 @@ def upload():
         for image in os.listdir(output):
             path = os.path.join(output, image)
             i = Image.open(path)
+            if str(path) == "processing\keep.jpg":
+                continue
             images[image] = (AvgRGB(pixelmatrix(i)))
         return images
 
@@ -78,9 +80,12 @@ def upload():
         return keeper
 
     def printMosaic(input, output, size):
+
         path = output + '/*'
         files = glob.glob(path)
         for f in files:
+            if str(f) == "processing\keep.jpg":
+                continue
             os.remove(f)
 
         imageMatrix = pixelmatrix(photo)
