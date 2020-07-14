@@ -1,7 +1,6 @@
 from PIL import Image
 import os
 import glob
-import imghdr
 
 #FLASK-----------------
 from flask import Flask, render_template, request, send_file
@@ -10,11 +9,17 @@ app = Flask(__name__)
 
 @app.route('/', methods = ['POST', 'GET']) #home page
 def home():
+
+    files = glob.glob("processing/*")
+    for f in files:
+        if str(f) == "processing\keep.jpg":
+            continue
+        os.remove(f)
+
     return render_template('index.html')
 
 @app.route('/upload', methods = ['POST', 'GET']) #runs photomosaic code, loads intermediary page
 def upload():
-
     sideLen = int(request.form['amountRange'])
     selection = 'imageCollection' + str(request.form['selectIMG'])
     for file in request.files.getlist('myfiles[]'):
@@ -79,38 +84,42 @@ def upload():
                 keeper = key
         return keeper
 
-    def printMosaic(input, output, size):
+    files = glob.glob("processing/*")
+    for f in files:
+        if str(f) == "processing\keep.jpg":
+            continue
+        os.remove(f)
 
+    imageMatrix = pixelmatrix(photo)
+    inputImgColors = inputRGB('processing', squareImages(selection, 'processing'))
 
-        files = glob.glob("processing/*")
-        for f in files:
-            if str(f) == "processing\keep.jpg":
-                continue
-            os.remove(f)
-
-        imageMatrix = pixelmatrix(photo)
-        inputImgColors = inputRGB(output, squareImages(input, output))
-        i = Image.new("RGB", (width, height), (255, 255, 255, 0))  # new white fully transparent image
-        for x in range(0, height, size):
-            for y in range(0, width, size):
-                sq = squarePixels(imageMatrix, size, (x, y))
-                colors = AvgRGB(sq)
-                matchingImage = pythagoreanMatch(inputImgColors, colors)
-                im = Image.open(output + '/' + matchingImage, 'r')
-                im.thumbnail((size, size))
-                i.paste(im, (y, x))
-        i.save('outputPhotomosaic/Photomosaic.jpg')
-
-    printMosaic(selection, 'processing', sideLen)
+    i = Image.new("RGB", (width, height), (255, 255, 255, 0))  # new white fully transparent image
+    for x in range(0, height, sideLen):
+        for y in range(0, width, sideLen):
+            sq = squarePixels(imageMatrix, sideLen, (x, y))
+            colors = AvgRGB(sq)
+            matchingImage = pythagoreanMatch(inputImgColors, colors)
+            im = Image.open('processing' + '/' + matchingImage, 'r')
+            im.thumbnail((sideLen, sideLen))
+            i.paste(im, (y, x))
+    i.save('outputPhotomosaic/Photomosaic.jpg')
     #-------------------------------------------------------------
 
     return render_template('complete.html')
 
 @app.route('/final', methods = ['POST', 'GET'])#displays img in new tab
 def final():
+
+    files = glob.glob("processing/*")
+    for f in files:
+        if str(f) == "processing\keep.jpg":
+            continue
+        os.remove(f)
+
     return send_file('outputPhotomosaic/Photomosaic.jpg')
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.config['ENV'] = 'development'
+    app.run(debug=True)
 
 #------------------------------
