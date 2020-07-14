@@ -18,10 +18,10 @@ def upload():
     sideLen = int(request.form['amountRange'])
     selection = 'imageCollection' + str(request.form['selectIMG'])
     for file in request.files.getlist('myfiles[]'):
-        file.save('inputIMG/input.jpg')
+        file.save('outputPhotomosaic/input.jpg')
 
     #PHOTOMOSAIC CODE--------------------------------------------------
-    photo = Image.open('inputIMG/input.jpg')
+    photo = Image.open('outputPhotomosaic/input.jpg')
     width, height = photo.size
 
     def pixelmatrix(image):
@@ -95,10 +95,6 @@ def upload():
                 im.thumbnail((size, size))
                 i.paste(im, (y, x))
         i.save('outputPhotomosaic/Photomosaic.jpg')
-
-        inputFiles = glob.glob('inputIMG/*')
-        for f in inputFiles:
-            os.remove(f)
 
     printMosaic(selection, 'processing', sideLen)
     #-------------------------------------------------------------
