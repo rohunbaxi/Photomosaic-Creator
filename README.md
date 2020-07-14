@@ -1,4 +1,4 @@
-## Photomosaic-Creator
+# Photomosaic-Creator
 This application takes in images and makes them into photomosaics using a choice of image database selections. 
 This application was created in Python using PIL for image processing. 
 The web interface was built in HTML5/CSS3 and Javascript using the Flask web framework to integrate the front end and back end.
