@@ -5,3 +5,5 @@ This back-end was created in Python using PIL for image processing. Color quanti
 Using Git Bash, this application is deployed onto Heroku. It is available at the following link: https://make-a-photomosaic.herokuapp.com/ (images above 1080p may have runtime issues). However, Heroku's limitations prevent entire image databases from being utilized. This means that using the website version will result in less detailed mosaics.
 Download the code and run it yourself for the best outcomes. 
  
+
+
