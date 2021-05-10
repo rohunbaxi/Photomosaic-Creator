@@ -9,5 +9,5 @@ Example:
 ![landscape](https://user-images.githubusercontent.com/64387778/117613851-7fc60900-b135-11eb-803e-1516183880d1.jpg)
 
 turns into
-![final](https://user-images.githubusercontent.com/64387778/117613978-a7b56c80-b135-11eb-8661-54ed10e5ff02.jpg) - a beautiful photomosaic of 10 000 + images.
+![final](https://user-images.githubusercontent.com/64387778/117613978-a7b56c80-b135-11eb-8661-54ed10e5ff02.jpg) - a beautiful photomosaic of 10000+ images.
 
